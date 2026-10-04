@@ -238,4 +238,4 @@ This repository serves as the official landing page for Duplicati. The software 
 **Get the most recent version of Duplicati today!**
 
 ---
-**Last updated:** 2026-10-04 11:01:12 UTC
+**Last updated:** 2026-10-04 16:37:20 UTC
